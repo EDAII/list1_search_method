@@ -1,9 +1,28 @@
-algoritmo_busca
-O trabalho será feito dessa forma, (podendo mudar se necessário)
+# Algoritmos de buscas lista 1
 
-usaremos 2 vetores, um embaralhado, e o outro em ordem
+## Alunos: Joberth Rogers Tavares Costa - 16/0128013 Marcelo Araújo dos Santos - 16/0035481
 
-terá fonções para preencher os vetores
-ao buscar valores, serão mostrados o tempo de busca e numero de comparações
+- Será usado 2 vetores, um embaralhado, e o outro em ordem.
 
-as buscas serão sequencial, binária
+- Terá funções para preencher os vetores ao buscar valores.
+
+- Serão mostrados o tempo médio de cada busca.
+
+- Os vetores serão plotados em um gráfico de amostragem.
+
+- As buscas comparadas serão sequencial e binária.
+
+- Para rodar o algoritmo, deve ser feito esses passos: 
+
+	para instalar o python pelo jupyter-notebook
+	 executar no terminal:
+	**sudo apt-get install python-pip python-dev**
+	**sudo pip install --upgrade pip**
+	**sudo pip install jupyter**
+
+	para rodar o jupyter-notebook
+	**jupyter-notebook**
+
+	vai abrir uma aba no navegador onde pode-se executar códigos python
+	clique em File, depois em open, e escolha o arquivo
+
